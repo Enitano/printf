@@ -1,5 +1,5 @@
 First group project
-Group members - Enitan Osunsanya and Joshua Ndan
+Group members - Enitan Osunsanya and Joshua Njan
 Project name - Printf
-this project will give hands on experience in git collaborations as software
-engineers
+This project will give hands on experience in git collaborations as Software
+Engineers
