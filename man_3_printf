@@ -72,5 +72,5 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs
 .SH AUTHOR
-Faruk Abubakar
-Ojiteli Vivian
+Osunsanya Enitan
+Joshua Charles Njan
